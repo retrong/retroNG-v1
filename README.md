@@ -9,7 +9,7 @@
   <br/>
   <br/>
   <p>I am a web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
-with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
+with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in other technological areas.</p>
   <img width="400" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif"/>
 </div>
 
