@@ -23,16 +23,15 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### GitHub stats
-<!-- 
-<div align="center" height='150px'> <img src="https://github-readme-stats.vercel.app/api?username=retrong&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="retrong"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrong&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="retrong"/> </div>  -->
+<!-- ### GitHub stats
+
 
 <div align="center">
   
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retrong&show_icons=true&hide_title=true&theme=github_dark)](https://github.com/retrong/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retrong&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/retrong/github-readme-stats) |
 | ------------- | ------------- |
   
-</div>
+</div> -->
 
 <!--***FOOTER SECTION***-->
 <h2 align="center">Let's Connect ☕</h2>
